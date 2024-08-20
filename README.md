@@ -1,1 +1,2 @@
-# DreamNode
+# StoryMediatesRelationship
+![](StoryMediatesRelationship.png)
